@@ -192,7 +192,7 @@
             // Create Div Element and Populate it with HTML
             var div = L.DomUtil.create('div', 'title');            
             div.innerHTML += '<b>Philadelphia Blood Lead Levels</b><br/>';
-            div.innerHTML += 'GUS 4073 Geovisualization - Lab 7<br/>';
+            div.innerHTML += 'GUS 4073 Geovisualization - Lab 8<br/>';
             div.innerHTML += 'Olivia Castello, Fall 2021</p>';            
             // Return the Title div containing the HTML content
             return div;
