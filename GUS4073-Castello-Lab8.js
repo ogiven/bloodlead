@@ -149,7 +149,7 @@
             });
             var overlayLayer = {
                 "blood_lead_level": neighborhoodsLayer,
-                "Phily University": universities
+                "Philly universities": universities
             };
             L.control.layers(baseMaps, overlayLayer).addTo(map);
         });
